@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morevq&show_icons=true&theme=ayu-mirage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
 
 <!--
 **Morevq/Morevq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
