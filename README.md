@@ -1,7 +1,7 @@
 ### Hi there, my name is Zhenya! 👋
 🌍 I am from Moscow, Russia <br />
 👨‍💻 Member of Microsoft Learn Student Ambassadors program. <br />
-🎓 I study at the School of Programmers <br />
+🎓 I study at the [School of Programmers](https://informatics.ru/) <br />
 
 ###### to be continued...
 
