@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Zhenya! 👋
+🌍 I am from Moscow, Russia <br />
+👨‍💻 Member of Microsoft Learn Student Ambassadors program. <br />
+🎓 I study at the School of Programmers <br />
+
 ###### to be continued...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morevq&show_icons=true&theme=ayu-mirage)
