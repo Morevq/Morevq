@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morevq&show_icons=true&theme=ayu-mirage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morevq&layout=compact&theme=ayu-mirage)
 
-![]("https://komarev.com/ghpvc/?username=Morevq&style=for-the-badge")
+![](https://komarev.com/ghpvc/?username=Morevq&color=yellow&style=flat-the-badge)
 
 <!--
 **Morevq/Morevq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
