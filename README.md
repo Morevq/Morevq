@@ -7,7 +7,7 @@
 - 🧩 Participant of the project [Samsung IT-School]("https://myitschool.ru/") (2021-2022) <br />
 - ✏ Manager of projects of the [Student Ambassadors Academy](https://sa-academy.tilda.ws) (since 2020) <br />
 - ❄️I like snowboarding<br />
- -🏔️I reached the saddle of Elbrus (5,300 out of 5,642 meters)
+- 🏔️I reached the saddle of Elbrus (5,300 out of 5,642 meters)
 
 ### ✨ Connect with me:
 - [Telegram](https://telegram.me/morevq)
