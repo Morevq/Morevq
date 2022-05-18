@@ -14,5 +14,5 @@
 - [Instagram](https://www.instagram.com/morevq)
 
 ### ✨ Statistics:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morevq&show_icons=true&theme=ayu-mirage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morevq&layout=compact&theme=ayu-mirage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morevq&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morevq&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
