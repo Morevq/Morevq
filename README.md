@@ -5,7 +5,7 @@
 - 👨‍💻 Member of Microsoft Learn Student Ambassadors program. <br />
 - 🎓 I study at the [MIREA](https://english.mirea.ru/) <br />
 - 🧩 Participant in the programs: [Samsung IT-School](https://innovationcampus.ru/itschool/) (2021-2022), [School of Programmers](https://informatics.ru/) (2020-2023) <br />
-- ✏ Manager of projects of the [WASP-Academy](https://sa-academy.tilda.ws) (from 2021 to 2023) <br />
+- ✏ Manager of projects of the [WASP-Academy](https://sa-academy.tilda.ws) (2021-2023) <br />
 - ❄️I like snowboarding<br/>
 - 🏔️I reached the saddle of Elbrus (5,300 out of 5,642 meters)
 
