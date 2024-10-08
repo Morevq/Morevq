@@ -2,7 +2,7 @@
 
 ### ✨ About me:
 - 🌍 I am from Moscow, Russia <br />
-- 👨‍💻 Member of Microsoft Learn Student Ambassadors program. <br />
+- 👨‍💻 Member of Microsoft Learn Student Ambassadors program (2021-2023) <br />
 - 🎓 I study at the [MIREA](https://english.mirea.ru/) <br />
 - 🧩 Participant in the programs: [Samsung IT-School](https://innovationcampus.ru/itschool/) (2021-2022), [School of Programmers](https://informatics.ru/) (2020-2023) <br />
 - ✏ Manager of projects of the [WASP-Academy](https://sa-academy.tilda.ws) (2021-2023) <br />
